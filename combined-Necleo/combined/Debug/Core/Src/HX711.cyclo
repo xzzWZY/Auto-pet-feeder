@@ -1,0 +1,14 @@
+HX711.c:19:6:hx711_init	1
+HX711.c:41:6:set_scale	1
+HX711.c:49:6:set_gain	3
+HX711.c:63:6:set_offset	2
+HX711.c:69:9:shiftIn	3
+HX711.c:85:6:is_ready	2
+HX711.c:93:6:wait_ready	2
+HX711.c:100:6:HAL_Delayy	1
+HX711.c:117:6:read	3
+HX711.c:157:6:read_average	2
+HX711.c:167:8:get_value	2
+HX711.c:175:6:tare	1
+HX711.c:183:6:tare_all	1
+HX711.c:189:7:get_weight	2
